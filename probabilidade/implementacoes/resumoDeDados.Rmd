@@ -1,0 +1,60 @@
+---
+title: "Probabilidade - 01"
+output:
+  html_document:
+    df_print: paged
+---
+
+O objetivo desse notebook é desenvolver os conceitos vistos no primeiro estágio de Introdução à Probabilidade. O conteúdo deste estágio é Análise Exploratória de Dados e aborda tópicos como Visualização de dados, Medidas de Posição e Medidas de Disperção. Dessa forma, seguiremos realizando uma Análise Exploratória de Dados.
+
+## Análise Exploratória de Dados
+
+- Adicionar a definição e o objetivo de uma análise exploratória de dados
+
+## Os Dados
+
+- Descrever a base de dados que será usada de exemplo.
+- Tipos de variáveis
+- Dizer que R disponibiliza vários datasets clássicos.
+
+## A linguagem R
+
+- Breve introdução a linguagem R e seu uso na estátisca.
+- Referência para material adicional do R.
+
+### Tipos de dados em R
+
+- Falar sobre os tipos básicos de dados, de modo rápido.
+
+### Controle de fluxo em R
+
+- Exemplo de if/else, while e for
+
+### Criando funções em R
+
+- Exemplo de criação de função
+
+## Visão geral sobre os dados
+
+- summary
+- str
+
+## Visualização de dados
+
+- Falar um pouco da ggplot
+- Fazer os plots feitos no livro/slides usando a ggplot
+
+## Medidas de posição
+
+- Média, Mediana e Moda
+- Adicionando essas medidas no gráfico
+
+## Medidas de dispersão
+
+- Variância, Desvio padrão e Coeficiente de Variação
+- Quartis, boxplot
+- Adicionando barras de erros nos plots
+
+## Correlação
+
+- Correlação
